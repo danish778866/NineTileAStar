@@ -45,3 +45,9 @@ The aim is find the steps in order to arrange the 3x3 matrix of tiles in the fol
         <td>5</td>
     </tr>
 </table>
+
+# Note
+An initial configuration might be unsolvable.
+
+# AStar search
+AStar search is the most widely known form of best-first search that aims at minimizing the total estimated solution cost. This is achieved by the search strategy by using heuristic functions in order to optimize decision making.
