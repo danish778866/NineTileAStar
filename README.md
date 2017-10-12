@@ -1,10 +1,10 @@
 # NineTileAStar
-th:empty {
-   font-size: 0px;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
+<table>
+<tr>
+    <td>1</td>
+    <td>2</td>
+</tr>
+</table>
 ||||
 |---|---|---|
 | 1 | 8 | 4 |
